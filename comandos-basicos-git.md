@@ -10,7 +10,7 @@
 
 - git add
   
-  Adiciona arquivo unmodified para o staged (controle versão local)
+  Adiciona arquivo unmodified para o staged 
 
 - git clone
   
@@ -18,4 +18,12 @@
 
 - git commit -m "mensagem"
   
-  Envia alterações para o gitHub
+  Faz o commit local do seu repositório
+
+- git push origin main
+
+        Envia repositório local para o GitHub
+
+
+
+
